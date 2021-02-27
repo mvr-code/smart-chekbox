@@ -1,10 +1,10 @@
 {
-  "name": "@mvk/products-cart",
+  "name": "@mvr/smart-chekbox",
   "version": "1.0.0",
   "description": "",
-  "author": "MVR",
+  "author": "MVR.CODE",
   "license": "MIT",
-  "repository": "MVR/@mvk/products-cart",
+  "repository": "mvr-code/smart-chekbox",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
